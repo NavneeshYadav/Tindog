@@ -1,2 +1,2 @@
 # Tindog
-This is clone website of tinder.
+This is a clone of tinder.
